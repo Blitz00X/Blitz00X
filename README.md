@@ -18,4 +18,5 @@ My core philosophy is simple: Optimize the process, automate the recovery, and d
 * [SpaceShip Command Center]: Workflow Orchestration
   A modular orchestration tool designed to optimize developer workflows. Combines system telemetry, dynamic file parsing, and script execution into a single, unified state machine.
 
-
+* [Telegram Bots Suite]: Modular Automation Pipelines
+  A collection of discrete, domain-isolated automation bots built on a pipeline architecture. Covers structured data ingestion (CSV), outbound notifications (Email), financial tracking (Finance Bot), feed aggregation (RSS), and an AI-powered semantic retrieval layer (VectorDB Pipeline).
