@@ -14,6 +14,13 @@ MIT, v0.3.1. [agentcap.launchbench.studio](https://agentcap.launchbench.studio)
 for solving coding exercises: question, editor, test results and an optional
 context-aware assistant in one window. Linux alpha, MIT, v0.1.0-alpha.2.
 
+## Research
+
+**[Neural DRM — Phase 0](https://github.com/Blitz00X/neural-drm)** — a negative
+result: embedding a license check in the model's learned representation did not
+raise the cost of removing it above the cost of learning the function itself.
+Three pre-registered CPU experiments, every failed run kept, MIT / CC BY 4.0.
+
 ## Next
 
 A public computer-vision demo, and a security write-up on agent systems.
