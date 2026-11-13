@@ -1,22 +1,33 @@
-# Hi, I'm Kutay.
+# Kutay Karahan
 
-> Architecting complex processes into automated, zero-friction workflows.
+I build systems that see, decide and stay safe: computer vision, AI agents and
+security. Computer engineering student at Izmir University of Economics.
 
-I am a System Developer driven by algorithmic efficiency, strict system architecture, and the orchestration of complex workflows. 
+## Currently building
 
-My core philosophy is simple: Optimize the process, automate the recovery, and design the architecture to be foolproof. Whether I am managing low-level system concurrency or building automated diagnostic pipelines, my goal is to transform chaotic data into structured, highly optimized ecosystems.
+**[AgentCap](https://github.com/Blitz00X/agentcap)** — a local-first quota and
+cost guard for Claude Code, Codex and Gemini CLI. It stops a run at its share of
+a subscription quota or on a tool loop, and leaves an evidence receipt of why.
+MIT, v0.3.1. [agentcap.launchbench.studio](https://agentcap.launchbench.studio)
 
+**[SolveBench](https://github.com/Blitz00X/solvebench)** — a terminal workbench
+for solving coding exercises: question, editor, test results and an optional
+context-aware assistant in one window. Linux alpha, MIT, v0.1.0-alpha.2.
 
-### The Architecture Portfolio
+## Research
 
-* [Sentinel-TUI]: Real-Time Telemetry & Data Flow
-  Showcases advanced system design through a strict unidirectional data flow architecture. Uses async worker isolation and bounded memory buffers to monitor Linux systems without blocking the UI thread or querying the system directly.
-  
-* [Linux Maintenance Script (LMS)]: Automated Diagnostics
-  An automated workflow pipeline executing 170+ algorithmic checks. Features a graceful degradation system and a failsafe auto-remediation mode that persists state changes to structured JSON audit logs.
-  
-* [SpaceShip Command Center]: Workflow Orchestration
-  A modular orchestration tool designed to optimize developer workflows. Combines system telemetry, dynamic file parsing, and script execution into a single, unified state machine.
+**Neural-DRM** — can a license be entangled into a learned representation? Three
+experiments ended in a negative result: entanglement hides the representation,
+not the function. Write-up in progress.
 
-* [Telegram Bots Suite]: Modular Automation Pipelines
-  A collection of discrete, domain-isolated automation bots built on a pipeline architecture. Covers structured data ingestion (CSV), outbound notifications (Email), financial tracking (Finance Bot), feed aggregation (RSS), and an AI-powered semantic retrieval layer (VectorDB Pipeline).
+## Selected systems
+
+| Project | What it is |
+|---|---|
+| [Sentinel-TUI](https://github.com/Blitz00X/Sentinel-TUI) | Linux-first terminal observability: metrics, network, systemd units and logs in one Textual interface |
+| [spaceship](https://github.com/Blitz00X/spaceship) | Linux desktop command center for scripts, aliases, shortcuts and live telemetry |
+| [maintenance_scripts](https://github.com/Blitz00X/maintenance_scripts) | Modular Linux diagnostics: 189 checks, audit logs and opt-in fixes |
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/kutay-karahan-08140228a)
