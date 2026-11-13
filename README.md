@@ -14,19 +14,9 @@ MIT, v0.3.1. [agentcap.launchbench.studio](https://agentcap.launchbench.studio)
 for solving coding exercises: question, editor, test results and an optional
 context-aware assistant in one window. Linux alpha, MIT, v0.1.0-alpha.2.
 
-## Research
+## Next
 
-**Neural-DRM** — can a license be entangled into a learned representation? Three
-experiments ended in a negative result: entanglement hides the representation,
-not the function. Write-up in progress.
-
-## Selected systems
-
-| Project | What it is |
-|---|---|
-| [Sentinel-TUI](https://github.com/Blitz00X/Sentinel-TUI) | Linux-first terminal observability: metrics, network, systemd units and logs in one Textual interface |
-| [spaceship](https://github.com/Blitz00X/spaceship) | Linux desktop command center for scripts, aliases, shortcuts and live telemetry |
-| [maintenance_scripts](https://github.com/Blitz00X/maintenance_scripts) | Modular Linux diagnostics: 189 checks, audit logs and opt-in fixes |
+A public computer-vision demo, and a security write-up on agent systems.
 
 ## Elsewhere
 
